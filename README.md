@@ -17,5 +17,5 @@ then extract data follow this folder structure:\
 ```
 2. Extract all frames from videos:
 ** extract_frame.sh ** only extract frames from train/videos. Please change folder path in this file to extract frames from public/videos (public test).\
- `bash extract_frame.sh`
+ ```bash extract_frame.sh```
 
